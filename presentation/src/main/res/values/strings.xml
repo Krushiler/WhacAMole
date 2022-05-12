@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Whac A Mole</string>
+    <string name="play">Play</string>
+    <string name="score">Score</string>
+    <string name="record">Record</string>
+    <string name="menu">Menu</string>
+    <string name="restart">Restart</string>
+
+    <string name="info_title">How to play</string>
+    <string name="info_text">Try to touch brown circles to make them green</string>
+</resources>
