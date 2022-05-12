@@ -42,7 +42,7 @@ class GameViewModel @Inject constructor(
         val gameBuilder = buildGame {
             setColumns(3)
             setRows(3)
-            setTime(3f)
+            setTime(30f)
             setSpawnTime(0.5f)
         }
 
