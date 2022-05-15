@@ -1,6 +1,6 @@
 # WhacAMole
 
-Game where you should tap on brown circles to make them green
+Game where you should tap on brown circles to make them green. Using Jetpack Compose
 
 ## How does it look
 
